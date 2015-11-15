@@ -5,7 +5,8 @@
 //  Created by Anatole Menichetti on 31/10/2015.
 //  Copyright © 2015 Anatole Menichetti. All rights reserved.
 //
-#include <stdio.h>
+
+#include <unistd.h>
 #include <fstream>
 #include <sstream>
 #include "GameEngine.hpp"
